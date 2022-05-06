@@ -1,0 +1,52 @@
+body{
+    background-image: url("https://gifimage.net/wp-content/uploads/2017/09/binary-code-gif-4.gif");
+  }
+  
+  h1{
+  font-family: 'Roboto Condensed', sans-serif;
+  color: yellow;
+  font-weight: bold;
+  text-align: center;
+  border: 5px solid yellow;
+  width: 310px;
+  padding: 5px;
+  margin: 20px auto;
+  background-color: black;
+  }
+  
+  .tags{
+  font-family: 'Roboto Condensed', sans-serif;
+  color: yellow;
+  text-align: center;
+  border: 2px solid yellow;
+  width: 130px;
+  padding: 5px;
+  margin: 20px auto;
+  background-color: black;
+  }
+  
+  .attributes{
+  font-family: 'Roboto Condensed', sans-serif;
+  color: yellow;
+  text-align: center;
+  border: 2px solid yellow;
+  width: 180px;
+  padding: 5px;
+  margin: 20px auto;
+  background-color: black;
+  }
+  
+  table{
+  font-family: 'Roboto Condensed', sans-serif;
+  color: yellow;
+  text-align: center;
+  border: 3px solid yellow;
+  padding: 5px;
+  margin: 20px 20px;
+  background-color: black;
+  }
+  
+  td{ 
+    border: 1px solid yellow;
+    margin: 0 auto;
+  }
